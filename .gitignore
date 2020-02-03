@@ -1,0 +1,15 @@
+# Environment
+MachineLearningFoundations/
+
+# Visual Studio Code
+.vscode/
+
+# Cache
+.DS_Store
+*__pycache__*
+
+# Report
+*report*
+
+# Upload
+*r08942073*
